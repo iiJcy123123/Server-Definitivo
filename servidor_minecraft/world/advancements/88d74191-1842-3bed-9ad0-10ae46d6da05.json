@@ -12,5 +12,17 @@
     },
     "done": false
   },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-11-29 15:24:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-29 15:25:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
