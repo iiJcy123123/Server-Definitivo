@@ -1422,10 +1422,6 @@
     "pfm:red_shower_towel",
     "pfm:black_shower_towel",
     "pfm:white_mirror",
-    "pfm:gray_mirror",
-    "pfm:white_stove",
-    "pfm:gray_stove",
-    "pfm:iron_stove",
-    "pfm:kitchen_stovetop"
+    "pfm:gray_mirror"
   ]
 }

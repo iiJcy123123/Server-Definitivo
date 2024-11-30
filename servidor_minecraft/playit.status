@@ -1,155 +1,495 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732907060050 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732926000833 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907063107 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926003901 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907066174 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926006978 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907069249 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926010049 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907072351 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926013106 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907075413 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926016163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907078521 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926019245 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907081598 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926022307 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907084702 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926025372 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907087767 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926028477 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907090834 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926031551 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907093904 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926034611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907096971 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926037671 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907100055 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926040751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907103138 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926043847 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907106207 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926046911 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907109268 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926049973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907112353 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926053034 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907115421 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926056122 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907118481 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926059180 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907121547 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926062251 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907124611 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926065324 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907128239 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926068419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907131329 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926071484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907134390 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926074549 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907137461 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926077604 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907140521 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926080676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907143592 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926083749 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907146667 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926086812 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907149738 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926089879 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732907152804 tunnel running, 1 tunnels registered
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926092955 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-volume-him.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926096015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926099077 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926102139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926105209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926108394 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926111464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926114529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926117601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926120680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926123756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926126827 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926129894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926132963 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926136029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926139102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926142168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926145226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926148299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926151375 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926154431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926157512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926160590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926163677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926166763 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926169834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926172891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926175960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926179027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926182086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926185145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926188212 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926191275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926194334 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926197388 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926200457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926203651 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926206716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926209787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926212850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926215924 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926218986 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926222049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926225112 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926228174 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926231245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926234322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926237378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926240451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926243522 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926246590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926249649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926252708 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926255762 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926258896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926261966 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926265034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926268094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926271148 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926274207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926277270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926280345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926283403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926286465 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926289525 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926292598 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926295658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926298717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732926301793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+weight-weird.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
